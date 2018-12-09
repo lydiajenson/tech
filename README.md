@@ -3,4 +3,10 @@ a demo project to find close meterotites
 
 ## Running
 
-`python3 find_close_meteroites.py`
+First install pipenv then:
+
+```
+pipenv install
+python3 find_close_meteroites.py
+
+```
