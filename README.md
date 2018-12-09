@@ -7,6 +7,6 @@ First install pipenv then:
 
 ```
 pipenv install
-python3 find_close_meteroites.py
+pipenv run python find_close_meteroites.py
 
 ```
